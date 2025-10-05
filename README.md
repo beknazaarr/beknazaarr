@@ -7,4 +7,3 @@
 <p align="center">  
   🚀 Добро пожаловать в мой профиль GitHub!
 </p>
-<h1 align="center">👋 Java Software Engineer</h1>
