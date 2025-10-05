@@ -1,4 +1,4 @@
-## Hi Jey. My name is Beknazar 👋
+  ## Hi J. I`am Nazar
 
 <!--
 **beknazaarr/beknazaarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
