@@ -8,3 +8,4 @@
 <p align="center">  
   🚀 Добро пожаловать в мой профиль GitHub!
 </p>
+<h6 align="center"><h6 align="center">wannabe software engineer</h6>
