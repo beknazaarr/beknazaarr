@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi man,I`am Nazar</h1>
+<h6 align="center">wannabe software engineer</h6>
 
 <p align="center">  
   🚀 Добро пожаловать в мой профиль GitHub!
