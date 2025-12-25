@@ -8,4 +8,4 @@
 <p align="center">  
   🚀 Добро пожаловать в мой профиль GitHub!
 </p>
-<h6 align="center"><h6 align="center">wannabe software engineer</h6>
+<h5 align="center"><h6 align="center">Google, wait for me like Hachiko. The train is delayed.</h5>
